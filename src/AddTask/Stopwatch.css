@@ -1,0 +1,8 @@
+
+.stopwatch-activities{
+    list-style-type: none;
+}
+.stopwatch { text-align: right }
+
+.start-btn { color: #4bd761 }
+.stop-btn  { color: #fd3d2a }
